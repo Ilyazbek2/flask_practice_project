@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial Flask practice project"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/flask_practice_project.git
+git push -u origin main
